@@ -1,0 +1,1 @@
+This folder contains all solutions of problems shared in JNU coding club group.
